@@ -2,7 +2,7 @@
 <h3 align="center">Data Science & AIML Portfolio | Master's Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubham12-ds&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vinayghanghav&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -31,12 +31,20 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayghanghav-ds&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vinayghanghav&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
+
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vinayghanghav-ds&theme=tokyonight" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=vinayghanghav&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
