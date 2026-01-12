@@ -40,9 +40,10 @@
 
 ---
 
-## 🔥 GitHub Streak
 <p align="center">
-  <img
+  <img ... >
+</p>
+
     src="https://github-readme-streak-stats.herokuapp.com?user=vinayghanghav&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
